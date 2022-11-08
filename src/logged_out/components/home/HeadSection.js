@@ -157,7 +157,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h2" : "h3"}
                         >
-                          Mudanzas en toda Europa
+                          Mudanzas en toda Barcelona
                         </Typography>
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
