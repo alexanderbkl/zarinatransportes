@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/zarinatransportes/static/js/main.852ef90a.chunk.js",
+    "main.js.map": "/zarinatransportes/static/js/main.852ef90a.chunk.js.map",
+    "runtime-main.js": "/zarinatransportes/static/js/runtime-main.6fe6d0f8.js",
+    "runtime-main.js.map": "/zarinatransportes/static/js/runtime-main.6fe6d0f8.js.map",
+    "static/js/2.662ce887.chunk.js": "/zarinatransportes/static/js/2.662ce887.chunk.js",
+    "static/js/2.662ce887.chunk.js.map": "/zarinatransportes/static/js/2.662ce887.chunk.js.map",
+    "static/css/3.ec02d681.chunk.css": "/zarinatransportes/static/css/3.ec02d681.chunk.css",
+    "static/js/3.c3104b84.chunk.js": "/zarinatransportes/static/js/3.c3104b84.chunk.js",
+    "static/js/3.c3104b84.chunk.js.map": "/zarinatransportes/static/js/3.c3104b84.chunk.js.map",
+    "static/css/4.44eea7fb.chunk.css": "/zarinatransportes/static/css/4.44eea7fb.chunk.css",
+    "static/js/4.5358722f.chunk.js": "/zarinatransportes/static/js/4.5358722f.chunk.js",
+    "static/js/4.5358722f.chunk.js.map": "/zarinatransportes/static/js/4.5358722f.chunk.js.map",
+    "index.html": "/zarinatransportes/index.html",
+    "static/css/3.ec02d681.chunk.css.map": "/zarinatransportes/static/css/3.ec02d681.chunk.css.map",
+    "static/css/4.44eea7fb.chunk.css.map": "/zarinatransportes/static/css/4.44eea7fb.chunk.css.map",
+    "static/js/2.662ce887.chunk.js.LICENSE.txt": "/zarinatransportes/static/js/2.662ce887.chunk.js.LICENSE.txt",
+    "static/js/3.c3104b84.chunk.js.LICENSE.txt": "/zarinatransportes/static/js/3.c3104b84.chunk.js.LICENSE.txt",
+    "static/js/main.852ef90a.chunk.js.LICENSE.txt": "/zarinatransportes/static/js/main.852ef90a.chunk.js.LICENSE.txt",
+    "static/media/landing.105c6094.gif": "/zarinatransportes/static/media/landing.105c6094.gif",
+    "static/media/logo_naranja.c7e3a644.png": "/zarinatransportes/static/media/logo_naranja.c7e3a644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe6d0f8.js",
+    "static/js/2.662ce887.chunk.js",
+    "static/js/main.852ef90a.chunk.js"
+  ]
+}
