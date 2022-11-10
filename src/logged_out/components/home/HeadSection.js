@@ -106,21 +106,23 @@ function HeadSection(props) {
   return (
     <Fragment>
       <div style={{ backgroundColor: "#000428", display: "flex" }}>
-        {/*Create a text next to logo saying "ZARINA TRANSPORTES" */}
+        {/*Create a text next to logo saying "SARINA TRANSPORTES" */}
         <Typography
           variant="h4"
           align="center"
-          style={{ color: "#fff", marginTop: "2vh", margin: "10px", display: "flex", justifyContent: "center", alignItems: "center" }}
+          style={{ color: "#fff", marginTop: "2vh", margin: "10px", display: "flex", justifyContent: "center", alignItems: "center", textAlign: 'left' }}
           className={classes.h4}
         >
-          ZARINA TRANSPORTES
+          SARINA TRANSPORTES
         </Typography>
-        <ZoomImage
+        <img
           src={logoImage}
           alt="logo"
-          style={{ margin: "10px", display: "flex", justifyContent: "end", alignItems: "end" }}
+          style={{ margin: "10px", display: "flex", justifyContent: "end", alignItems: "end"}}
           className={classes.image}
         />
+
+
 
 
 
@@ -162,7 +164,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          ·Locales - <b>Barcelona y alrededores</b> {"\n"}<br />
+                          ·Mudanzas locales - <b>Barcelona y alrededores</b> {"\n"}<br />
                           ·Mudanzas en toda Cataluña y España
                         </Typography>
                       </Box>
@@ -191,7 +193,7 @@ function HeadSection(props) {
                         alignItems="center"
                         height="100%"
                       >
-                        <ZoomImage
+                        <img
                           src={landingImage}
                           alt="landing"
                           className={classes.image}

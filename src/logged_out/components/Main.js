@@ -36,14 +36,14 @@ function Main(props) {
   const selectHome = useCallback(() => {
     smoothScrollTop();
     document.title =
-      "ZARINA TRANSPORTES - Transportes y mudan";
+      "SARINA TRANSPORTES - Transportes y mudan";
     setSelectedTab("Home");
   }, [setSelectedTab]);
 
   const selectBlog = useCallback(() => {
     smoothScrollTop();
-    document.title = "WaVer - Blog";
-    setSelectedTab("Blog");
+    //document.title = "WaVer - Blog";
+    //setSelectedTab("Blog");
   }, [setSelectedTab]);
 
   const closeDialog = useCallback(() => {
